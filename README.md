@@ -1,5 +1,7 @@
 # Hospital Readmission Prediction
 
+![Hospital Readmission Prediction ETL Pipeline](docs/images/etl_pipeline.png)
+
 ## Project Overview
 This project implements a scalable data engineering pipeline to analyze and predict hospital readmissions. Using a **Medallion Architecture** (Bronze, Silver, Gold layers), the system processes raw patient data into analysis-ready features, enabling insights into readmission drivers such as diagnosis, age, and diabetic markers (HbA1c, Insulin).
 
